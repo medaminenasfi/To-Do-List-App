@@ -15,7 +15,6 @@ Perfect for anyone looking to organize their daily tasks and boost productivity.
 - **Deleting Tasks:** Click the delete icon next to the task you want to remove.
 - **Marking Tasks as Completed:** Click on the task to toggle its completed status.
 
-- *This project is a great way to practice your HTML, CSS, and JavaScript skills. Happy coding!*
 
 
 # Technologies Used
@@ -25,4 +24,10 @@ Markup language used to structure the web application.
 Stylesheet language used to design the look and feel of the app.
 #### Javascript:
 Programming language used to implement the app's functionality and interactivity.
+
+
+
+
+- *This project is a great way to practice your HTML, CSS, and JavaScript skills. Happy coding!*
+
 
