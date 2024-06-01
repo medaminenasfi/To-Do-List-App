@@ -16,3 +16,13 @@ Perfect for anyone looking to organize their daily tasks and boost productivity.
 - **Marking Tasks as Completed:** Click on the task to toggle its completed status.
 
 - *This project is a great way to practice your HTML, CSS, and JavaScript skills. Happy coding!*
+
+
+# Technologies Used
+#### HTML:  
+Markup language used to structure the web application.
+#### CSS:
+Stylesheet language used to design the look and feel of the app.
+#### Javascript:
+Programming language used to implement the app's functionality and interactivity.
+
